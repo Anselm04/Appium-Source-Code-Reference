@@ -1,0 +1,5 @@
+Upstream: https://github.com/appium/appium
+Revision: df431dd2719d55e29fdf504947282e6f972cae69
+Copied files: 1016
+Excluded files: 16
+Upstream automation and unsupported entries excluded; original licences retained.

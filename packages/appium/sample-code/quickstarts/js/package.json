@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "webdriverio": "10.2.0"
+  }
+}
